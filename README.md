@@ -9,3 +9,6 @@ modified right now
 
 
 This is bound to close trouble
+
+
+git stashing modification
